@@ -1,1 +1,1 @@
-example text created in new branch
+example text created in new branch [here conflict]
