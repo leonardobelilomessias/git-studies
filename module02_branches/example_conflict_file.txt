@@ -2,3 +2,6 @@ one line variable=1
 two line variable=0
 tree line variable=1
 result=false
+four line undefined
+result=true
+
