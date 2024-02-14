@@ -1,0 +1,4 @@
+one line variable=0
+two line variable=0
+tree line variable=0
+result=false
