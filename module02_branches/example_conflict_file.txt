@@ -1,4 +1,4 @@
 one line variable=1
-two line variable=1
+two line variable=0
 tree line variable=1
-result=true
+result=false
