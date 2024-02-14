@@ -1,4 +1,5 @@
 one line variable=1
 two line variable=1
-tree line variable=1
+tree line variable=0
+four line undefined
 result=true
